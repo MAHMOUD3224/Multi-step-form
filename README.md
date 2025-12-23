@@ -2,7 +2,6 @@
 An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.
 # Front-end Style Guide
 
-## Live Srver 😍: https://mahmoud3224.github.io/Multi-step-form/  
 ## Layout
 
 The designs were created to the following widths:
